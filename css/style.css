@@ -1,0 +1,73 @@
+
+body {
+    background: #010204 url('http://www.dreamtemplate.com/dreamcodes/bg_images/color/c13.jpg') no-repeat center top;
+}
+
+.logo {
+    float: left;
+}
+
+.container {
+    background-color: white;
+}
+
+.row h2 {
+    padding: 10px;
+}
+
+.main_title {
+    float: right;
+    text-align: right;
+}
+
+.logo img {
+    width: 130px;
+    border-radius: 10px;
+}
+
+.temp {
+    clear: both;
+}
+
+.sec_title {
+    align-content: right;
+}
+
+.main-img img {
+    width: 100%;
+}
+
+.main_title h1 {
+    font-size: 4em;
+}
+
+.main_title p {
+    font-size: 2.5em;
+}
+
+.sec-content {
+    border-radius: 10px;
+}
+
+.col-md-4 {
+
+}
+
+.sec-content:last-of-type {
+    margin-right: 0;
+}
+
+.sec-content img {
+    width: 100%;
+    /*margin-right: 20px;*/
+}
+
+@media screen and (max-width: 770px) {
+    .main_title h1 {
+        font-size: 2.5em;
+    }
+
+    .main_title p {
+        font-size: 1.5em;
+    }
+}
