@@ -11,3 +11,4 @@ this is an abbreviated version of my portfolio as part of `full stack web develo
 1. css : contains bootstrap style sheets in addition to my style sheet `style.css`.
 2. js, fonts : bootstrap folders.
 3. index.html : the portfolio page.
+4. imgs : contains all images of the website.
